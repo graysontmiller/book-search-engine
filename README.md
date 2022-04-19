@@ -18,6 +18,9 @@ This app uses the Google Books API to create a GraphQl API with an Apollo Server
 
 ## Screenshot:
 
+![Screen Shot 2022-04-19 at 3 22 23 AM](https://user-images.githubusercontent.com/92832005/163948291-c5b84a4d-dd81-4fa0-a7e7-9eb997a8a06e.png)
+
+
 
 
 ## Deployed application:
