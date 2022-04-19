@@ -10,7 +10,7 @@
     "build": "cd client && npm run build"
   },
   "keywords": [],
-  "author": "Erik Plachta",
+  "author": "Grayson Miller",
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^5.1.0"
